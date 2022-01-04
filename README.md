@@ -5,7 +5,7 @@ that were used in Al Zimmermann's Programming Contest AP Math from 2021.
 
 To build the program, a command line such as this works:
 
-   g++ -march=native -g -std=c++17 -O3 -o 171recon5 171recon5.cpp
+    g++ -march=native -g -std=c++17 -O3 -o 171recon5 171recon5.cpp
 
 You can drop the -mark=native if your platform doesn't support it.
 Clang works equally well.
